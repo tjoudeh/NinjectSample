@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ninject.Basic", "Ninject.Basic\Ninject.Basic.csproj", "{9B3DC495-0DA4-4158-81C0-C2F1875965DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ninject.WebForms", "Ninject.WebForms\Ninject.WebForms.csproj", "{B11268F2-A7B6-49E8-9E93-20EBFBB59B0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B3DC495-0DA4-4158-81C0-C2F1875965DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B3DC495-0DA4-4158-81C0-C2F1875965DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B3DC495-0DA4-4158-81C0-C2F1875965DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B3DC495-0DA4-4158-81C0-C2F1875965DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B11268F2-A7B6-49E8-9E93-20EBFBB59B0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B11268F2-A7B6-49E8-9E93-20EBFBB59B0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B11268F2-A7B6-49E8-9E93-20EBFBB59B0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B11268F2-A7B6-49E8-9E93-20EBFBB59B0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
